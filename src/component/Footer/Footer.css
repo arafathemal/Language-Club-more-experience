@@ -1,0 +1,6 @@
+.footer-container{
+    background-color: rgb(109, 182, 182);
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 95px;
+}

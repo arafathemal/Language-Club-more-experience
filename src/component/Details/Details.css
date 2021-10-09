@@ -1,0 +1,9 @@
+.text-color{
+    color: indianred;
+
+}
+.bg-color{
+    background-color: rgb(230, 215, 228);
+    border: 3px solid rgba(146, 14, 106, 0.87);
+    border-radius: 50px;
+}

@@ -1,0 +1,98 @@
+[
+    {
+      "id": 0,
+      "name": "HTML Course",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+      "pay": 4000,
+      "duration": "three-months",
+      "discount": 500
+    },
+    {
+      "id": 1,
+      "name": "CSS Course",
+      "img": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-1200-80.jpg",
+      "pay": 3000,
+      "duration": "three-months",
+      "discount": 500
+    },
+    {
+      "id": 2,
+      "name": "English spoken Course",
+      "img": "https://image.shutterstock.com/image-vector/english-open-book-language-hand-260nw-1191427996.jpg",
+      "pay": 6000,
+      "duration": "three-months",
+      "discount": 500
+    },
+    {
+      "id": 3,
+      "name": "Arabic spoken Course",
+      "img": "https://ahlan.b-cdn.net/wp-content/uploads/arabic-modern-colloquial.jpg",
+      "pay": 4000,
+      "duration": "three-months",
+      "discount": 500
+    },
+    {
+      "id": 4,
+      "name": "Korian spoken Course",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtugkg3MRme8vDgS5DYx2WSY9VcSdwSRNYA&usqp=CAU",
+      "pay": 5000,
+      "duration": "four-months",
+      "discount": 500
+    },
+    {
+      "id": 5,
+      "name": "Chines spoken Course",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hanzi.svg/1200px-Hanzi.svg.png",
+      "pay": 8000,
+      "duration": "six-months",
+      "discount": 500
+    },
+    {
+      "id": 6,
+      "name": "Japanese spoken Course",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hanzi.svg/1200px-Hanzi.svg.png",
+      "pay": 9000,
+      "duration": "six-months",
+      "discount": 500
+    },
+    {
+      "id": 7,
+      "name": "Spanish spoken Course",
+      "img": "https://blog.collinsdictionary.com/wp-content/uploads/sites/39/2020/09/spanish-verbs-1303100365-711-e1623226406354-800x0-c-default.jpg",
+      "pay": 10000,
+      "duration": "five-months",
+      "discount": 500
+    },
+    {
+      "id": 8,
+      "name": "JavaScript crush Course",
+      "img": "https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png",
+      "pay": 7000,
+      "duration": "three-months",
+      "discount": 500
+    },
+    {
+      "id": 9,
+      "name": "React Crush Course",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+      "pay": 6000,
+      "duration": "five-months",
+      "discount": 500
+    },
+    {
+      "id": 10,
+      "name": "German spoken Course",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGXVzmzbCkGr7H6kBBwDhXepBOfV_7dMOxA&usqp=CAU",
+      "pay": 6000,
+      "duration": "five-months",
+      "discount": 500
+    },
+    {
+      "id": 11,
+      "name": "Mandarin spoken Course",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Guanhua_swapped.svg/1200px-Guanhua_swapped.svg.png",
+      "pay": 6000,
+      "duration": "five-months",
+      "discount": 500
+    }
+  ]
